@@ -56,5 +56,5 @@ This project follows a structured approach covering the following key components
 ## 💡 Future Improvements
 - Implement advanced outlier detection techniques.
 - Experiment with different encoding techniques.
-- Use automated pipelines for preprocessing.
+  
 
